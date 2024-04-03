@@ -46,7 +46,6 @@ global.mess = {
     group: '*This feature is only for groups*',
     private: '*This feature is only for private chats*',
     wait: '*In process...* ',    
-    error: '*Error!*',
 }
 
 global.thumb = fs.readFileSync('./Gallery/thumb.jpg')
